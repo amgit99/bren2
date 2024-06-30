@@ -1,0 +1,2 @@
+Back in the <span style="color:#e1db3d">ARPANET</span> days, a file, `hosts.txt`, listed all the computer names and their IP addresses. The Domain Name System was invented in <span style="color:#e1db3d">1983</span> to address these problems, and it has been a key part of the Internet ever since. It can be called a Distributed Database System.
+The DNS works on <span style="color:#e1db3d">UDP</span>.

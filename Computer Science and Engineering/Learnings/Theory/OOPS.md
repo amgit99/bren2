@@ -1,0 +1,5 @@
+We know the introduction only too well, the 4 most important ones are Encapsulation, Abstraction, Inheritance, Polymorphism. We shall do OOPS in  [[C++]] .
+### Encapsulation : :
+The important information about a class is hidden from the environment and is only exposed via a fixed number of functions, usually a `get()` and a `set()`. These methods can impose checks on what information gets in and goes out.
+### Abstraction : : 
+This means hiding a complex operation by some fixed <span style="color:#e1db3d">interface</span>. The user might not need to know how things are happening behind the scenes, as long as he's provided with what functionality that piece of code provides. The term interface, a set of functions, API all mean the same thing, a set of known functionality. Rust and Java have this exact keyword for the concept, while C++ has an <span style="color:#e1db3d">abstract class</span>. This is just like a normal class, just that the methods of the class are <span style="color:#e1db3d">pure virtual functions</span>. Any class that wishes to adhere to this interface/contract has to implement all the functions in the abstract class.

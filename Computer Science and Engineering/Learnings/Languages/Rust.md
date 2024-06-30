@@ -1,0 +1,1 @@
+This course concerns backends and Rust as a language for web. So we shall see why Rust, a systems language, should be used for backends, a mainly [[JavaScript]] dominated field. 

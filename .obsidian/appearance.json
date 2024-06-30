@@ -1,0 +1,10 @@
+{
+  "accentColor": "",
+  "cssTheme": "Obsidianite",
+  "baseFontSize": 18,
+  "enabledCssSnippets": [
+    "big-math"
+  ],
+  "translucency": true,
+  "textFontFamily": "Helvetica"
+}

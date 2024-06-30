@@ -1,0 +1,11 @@
+mjx-math {
+  font-size: 140% !important;
+}
+
+.markdown-rendered :is(h1, h2, h3, h4, h5, h6) {
+    margin-block-end: 10px;  
+}
+
+.workspace-leaf-content[data-type="file-explorer"] * {
+    font-size: 13px;
+}
