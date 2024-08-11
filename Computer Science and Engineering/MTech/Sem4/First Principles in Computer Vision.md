@@ -3,3 +3,4 @@
 [[Image Segmentation]]
 [[Transformer]]
 [[Vision Transformer]]
+[[CNN LeNet]]
