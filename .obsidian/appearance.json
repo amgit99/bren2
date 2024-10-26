@@ -1,0 +1,11 @@
+{
+  "accentColor": "#502ca5",
+  "cssTheme": "GitHub Theme",
+  "baseFontSize": 18,
+  "enabledCssSnippets": [
+    "big-math"
+  ],
+  "translucency": true,
+  "textFontFamily": "Helvetica",
+  "theme": "obsidian"
+}

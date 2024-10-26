@@ -1,0 +1,327 @@
+{
+  "main": {
+    "id": "c6862d65f80637b5",
+    "type": "split",
+    "children": [
+      {
+        "id": "b10a954424a1c5a9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0e0c316aaa5c865a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DIARY.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3ef23805a123d99b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Distributed Systems (MIT OCW).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "973f807a2cdb2b03",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "(MIT Distributed Systems) Lecture 1 - Map Reduce.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1c69bb87f881d92c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2 - In Progress Notes/Chapter 3 - Storage and Retrieval.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c95e2acbcd874ead",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "(CMU DBS) Lec 05 - Row vs Columnar Storage and Compression.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "add76929c088396f",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "8388002c0894bbeb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Database Internals - Alex Petrov.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a1859ab464eac659",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Experian Services.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "14d0bf832d24c640",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "(CMU DBS) Lec 06 - Memory and Disk IO management..md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "753210955083c3c6",
+    "type": "split",
+    "children": [
+      {
+        "id": "553d0038c7a22a5f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fd04c34904fc463c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d2a6f2a9618c4f0e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": true,
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "byModifiedTime"
+              }
+            }
+          },
+          {
+            "id": "5fa8650a445c423c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 287.5,
+    "collapsed": true
+  },
+  "right": {
+    "id": "177a3819580fb42e",
+    "type": "split",
+    "children": [
+      {
+        "id": "587fce950a27f0db",
+        "type": "tabs",
+        "dimension": 27.569444444444446,
+        "children": [
+          {
+            "id": "e67f15795b6d31e0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
+            }
+          },
+          {
+            "id": "369584a8c40a30f4",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "f45d272b89d42839",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Database Internals - Alex Petrov.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "71514dea85d907d8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Database Internals - Alex Petrov.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "64f8566d0c4a2576",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Database Internals - Alex Petrov.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "2960c7e43ca8928b",
+        "type": "tabs",
+        "dimension": 72.43055555555556,
+        "children": [
+          {
+            "id": "aeb13f367eed041c",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "3bccdf433c5edc96",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 814.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "daily-notes:Open today's daily note": false
+    }
+  },
+  "active": "8388002c0894bbeb",
+  "lastOpenFiles": [
+    "(CMU DBS) Lec 06 - Memory and Disk IO management..md",
+    "(CMU DBS) Lec 05 - Row vs Columnar Storage and Compression.md",
+    "DIARY.md",
+    "Experian Services.md",
+    "Database Internals - Alex Petrov.md",
+    "2 - In Progress Notes/Chapter 3 - Storage and Retrieval.md",
+    "(MIT Distributed Systems) Lecture 1 - Map Reduce.md",
+    "2 - In Progress Notes/Chapter 2 - Data Models and Query Languages.md",
+    "2 - In Progress Notes/Designing Data Intensive Applications.md",
+    "2 - In Progress Notes/C++ experimentation.md",
+    "Untitled.md",
+    "1 - Rough Notes/Programming in Modern C++.md",
+    "2 - In Progress Notes/CS Access Modifiers.md",
+    "3 - Final Notes/(CMU DBS) Lec 04 - Log Structured Merge Trees and Tuples.md",
+    "2 - In Progress Notes/SQL.md",
+    "3 - Final Notes/(CMU DBS) Lec 03 - Files & Pages.md",
+    "3 - Final Notes/(CMU DBS) Lec 02 - Modern SQL.md",
+    "Distributed Systems (MIT OCW).md",
+    "QUEUE.md",
+    "2 - In Progress Notes/React.md",
+    "The Code.md",
+    "2 - In Progress Notes/Brain expanding problems.md",
+    "2 - In Progress Notes/CS Type System.md",
+    "2 - In Progress Notes/Perfology - Zerodha Database Tuning.md",
+    "1 - Rough Notes/S3.md",
+    "2 - In Progress Notes/Modular Division.md",
+    "assets/subscriber_pattern_uml.png",
+    "assets/Screenshot 2023-12-13 at 3.40.23 PM.png",
+    "assets/strategy_pattern_uml.png",
+    "assets/Pasted image 20240228213123.png",
+    "assets/Pasted image 20240306230015.png",
+    "assets/Pasted image 20240306122108.png",
+    "assets/Pasted image 20240229145717.png",
+    "assets/Pasted image 20240229102818.png",
+    "assets/Pasted image 20240228211422.png",
+    "assets/Pasted image 20240228162054.png",
+    "4 - Collections",
+    "2 - In Progress Notes",
+    "Templates",
+    "3 - Final Notes",
+    "5 - Tags",
+    "1 - Rough Notes",
+    "Stonks",
+    "Health/Mental",
+    "Computer Science and Engineering/Learnings/Frameworks",
+    "Csharp",
+    "Untitled.canvas"
+  ]
+}

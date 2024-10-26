@@ -1,0 +1,7 @@
+The .NET framework has aliases of the types, hence they are exactly same in functionality, `int -> System.Int32`, `string -> System.String` etc.
+A <span style="color:#e1db3d">string</span> in C# is Unicode, takes 2 bytes per character.
+A string in C# is <span style="color:#e1db3d">immutable</span>.
+
+C# has <span style="color:#e1db3d">Value types</span> and <span style="color:#e1db3d">Reference types</span>.
+- Value Types: They derive from [System.ValueType](https://learn.microsoft.com/en-us/dotnet/api/system.valuetype), which derives from [System.Object](https://learn.microsoft.com/en-us/dotnet/api/system.object). CLR has <span style="color:#e1db3d">special behaviour</span> for types that derive from the System.ValueType. The memory of the struct is allocated in the context where it is declared (stack). There are two categories of value types, <span style="color:#e1db3d">structs</span> and <span style="color:#e1db3d">enums</span>. Value types are _sealed_. You can't derive a type from any value type, for example [System.Int32](https://learn.microsoft.com/en-us/dotnet/api/system.int32). You can't define a struct to inherit from any user-defined class or struct because a struct can only inherit from [System.ValueType](https://learn.microsoft.com/en-us/dotnet/api/system.valuetype). However, a struct can implement one or more interfaces.
+- Reference Types: 
